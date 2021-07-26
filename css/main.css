@@ -2464,7 +2464,7 @@ figcaption {
   text-align: right;
 }
 .button {
-  min-width: 50px;
+  min-width: 80px;
   margin-right: 0;
   margin-bottom: 0;
   padding: 13px 20px;
